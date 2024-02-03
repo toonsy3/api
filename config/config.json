@@ -1,0 +1,10 @@
+{
+  "database": {
+    "username": "",
+    "password": "",
+    "address": "",
+    "database": "chatlog",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
